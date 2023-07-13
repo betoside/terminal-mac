@@ -1,0 +1,5 @@
+Teste de nano
+
+criando arquivo
+
+Editando o arquivo através do nano
