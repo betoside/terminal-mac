@@ -1,0 +1,7 @@
+yesterday
+today
+tomorrow
+
+
+good stuff
+ -- ARQUIVO DUPLICADO / COPIADO com o comando mv
